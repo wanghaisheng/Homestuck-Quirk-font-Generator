@@ -1,3 +1,5 @@
+2024-12-06
+
 # Homestuck Quirk Generator
 
 A site that allows you to convert inputted text into the typing quirk of a Homestuck character.
